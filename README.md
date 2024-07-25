@@ -17,7 +17,3 @@
 
 - S3 버킷 웹사이트 엔드포인트: http://juhong-bucket.s3-website-ap-southeast-2.amazonaws.com/
 - CloudFrount 배포 도메인 이름: https://d2fzzrc0svgnb.cloudfront.net
-
-## 주요 개념
-- S3 및 스토리지: 
-- 캐시 무효화(Cache Invalidation): 
